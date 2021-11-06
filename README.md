@@ -8,7 +8,7 @@
 ### Inspiration
 I decided to create the Tribute page to my brother, who has been always supporting me in all my projects throught his life. Unfortunately, he lost his battle against Cancer in 2019. 
 
-I used to call him to ask from help when I was stuck solving any problem and I am sure he will guide me on this new challenged at School of Code. Now, I can hear him saying to me <em >"Why have you decided to do this? And I know what this means for me... you would be asking for more hel now." </em>But I know in the end he will be helping anyway.
+I used to call him to ask from help when I was stuck solving any problem and I am sure he will guide me on this new challenged at School of Code. Now, I can hear him saying to me <em >"Why have you decided to do this? And I know what this means for me... you would be asking for more help now." </em>But I know in the end he will be helping anyway.
 
 <p> You can find the final project by clicking at my <a href="https://codepen.io/drinobre/full/jOLwPyo" title="Title"> Tribute page</a>.</p> 
 
