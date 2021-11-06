@@ -28,7 +28,7 @@ I used to call him to ask from help when I was stuck solving any problem and I a
 
 
 ## <u>Challenges</u>
->
+
 <li> HTML5 structure</li>
 <li> Adding images from Google Sheets or simple select image from Google Search (finding which URL to add on it)</li>
 <li> Align the elements with the image </li>
